@@ -1,5 +1,5 @@
 # FreeAgentSchedule 坐席智能排班系统
-坐席排班，智能排班，呼叫中心排班，客服系统排班，假期排班，Call Center, Contact Center，联络中心排班，人工智能值班，持续优化人力配置！!!!
+坐席排班，智能排班，呼叫中心排班，客服系统排班，假期排班，Call Center, Contact Center，联络中心排班，人工智能值班，持续优化人力配置!!!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
@@ -79,6 +79,8 @@ http://118.25.192.13:80
 9.	高度可配置：提供直观的配置界面，让用户无需编程即可根据自身需求调整系统参数、优化工作流程，实现快速定制与部署。
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0fea8d25-a429-43ba-bbae-ba336d2f55c3)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图02](https://github.com/user-attachments/assets/f2f67c1c-d218-4a14-bbaa-f504a41875c6)
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
